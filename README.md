@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m am a Second-year CS undergrad at IIT Jodhpur. I am a passionate developer interested in collaboration of AI with Development and building innovative solutions with code and creativity.
+I’m a CS undergrad at IIT Jodhpur. I am a passionate developer interested in collaboration of AI with Development and building innovative solutions with code and creativity.
 
 
 ## 🌐 Socials:
